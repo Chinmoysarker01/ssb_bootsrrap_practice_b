@@ -1,0 +1,10 @@
+.box{
+	min-height: 80px;
+	background-color: red;
+	margin-bottom: 10px;
+}
+.box2{
+	min-height: 100px;
+	background-color: lime;
+	margin-bottom: 10px;
+}
